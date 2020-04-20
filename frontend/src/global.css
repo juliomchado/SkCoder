@@ -1,0 +1,16 @@
+@font-face{
+  font-family: 'Montserrat';
+  src: url(./assets/font/Montserrat-Bold.ttf);
+}
+
+
+*{
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(110.09% 246.75% at 28.44% 8.29%, #111033 0%, #1A1A1A 100%); ;
+}
+
